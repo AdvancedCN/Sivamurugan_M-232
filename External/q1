@@ -1,1 +1,3 @@
 awk {'print'} q1.txt
+
+ps
